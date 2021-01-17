@@ -1,0 +1,28 @@
+.nav{
+  background-color: #f0a500;
+}
+.nav-link{
+  color: white;
+}
+.brisk{
+  color: white;
+}
+.login{
+  color:white;
+}
+
+
+.table1{
+  border: solid 1.5px;
+  border-bottom: none;
+  border-top: none;
+}
+.div1{
+  height: 100%;
+}
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+}
